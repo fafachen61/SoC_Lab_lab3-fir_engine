@@ -614,4 +614,16 @@ OK: exp =           0, rdata =           0
 [PASS] [Pattern        594] Golden answer:       -1830, Your answer:       -1830
 [PASS] [Pattern        595] Golden answer:       -1647, Your answer:       -1647
 [PASS] [Pattern        596] Golden answer:       -1464, Your answer:       -1464
-[PASS] [Pattern        597] Golden answer:       -1281, Your answe
+[PASS] [Pattern        597] Golden answer:       -1281, Your answer:       -1281
+OK: exp =           0, rdata =           0
+[PASS] [Pattern        598] Golden answer:       -1098, Your answer:       -1098
+------End the data input(AXI-Stream)------
+[PASS] [Pattern        599] Golden answer:        -915, Your answer:        -915
+OK: exp =           2, rdata =           6
+OK: exp =           4, rdata =           6
+---------------------------------------------
+-----------Congratulations! Pass-------------
+$finish called at time : 90065 ns : File "C:/Users/Allen/My_Document/GIEE_Masters/First_Year_Upper/SoC_lab/lab_3/course_lab3/files/fir_tb.v" Line 201
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'fir_tb_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 100000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:08 . Memory (MB): peak = 1641.504 ; gain = 0.000
